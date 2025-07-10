@@ -1,4 +1,4 @@
-```
+
 # Job Portal Application
 
 A modern job portal platform built with **React** and **Supabase** that allows candidates to register for jobs and upload resumes. Recruiters can create job listings and manage applications.
@@ -86,4 +86,3 @@ Visit `http://localhost:3000` to view the application in your browser.
 ## License
 
 This project is licensed under the MIT License.
-```
